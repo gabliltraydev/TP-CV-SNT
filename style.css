@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(160, 212, 188);
+}
+
+#container{
+	margin: 0 auto;
+	width: 720px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#nav{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav > li {
+	display: inline;
+	padding: 2em;
+}
+
+#nav > li > a {
+	text-decoration: none;
+	color: orangered;
+	font-weight: 700;
+}
